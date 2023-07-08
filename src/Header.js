@@ -4,7 +4,7 @@ import Black_logo from './Assets/Black_logo.png'
 const Header = () => {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg " style={{marginTop:'2%'}} >
+      <nav className="navbar navbar-expand-lg " style={{marginTop:'1%'}} >
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
            
