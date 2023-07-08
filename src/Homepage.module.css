@@ -1,0 +1,30 @@
+.container1 {
+  background: linear-gradient(90deg, transparent 50%, #f8e8ee 50%);
+  /* background-color: black; */
+}
+.heading4 {
+  color: #df5789;
+  position: relative;
+  
+}
+.heading4::after {
+  content: " ";
+  height: 2px;
+  width: 60px;
+  background: #df5789;
+  float: right;
+  margin-right: "100%";
+  position: absolute;
+  top: 50%;
+  right:68%
+  
+}
+.Main_headings{
+    margin-top:5% ;
+    font-size: 350%;
+    font-weight: bold;
+}
+.para{
+    margin-top: 5%;
+}
+
